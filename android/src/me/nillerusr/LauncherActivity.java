@@ -23,15 +23,11 @@ import java.io.FileWriter;
 import java.io.IOException;
 import java.io.InputStream;
 import java.util.regex.Pattern;
-
-import javax.swing.text.View;
-
 import android.content.pm.PackageManager;
 import android.view.*;
 import android.widget.*;
 import android.graphics.*;
 import android.widget.LinearLayout.LayoutParams;
-import javafx.scene.control.Button;
 import android.graphics.drawable.*;
 import me.nillerusr.ExtractAssets;
 import android.content.ComponentName;
